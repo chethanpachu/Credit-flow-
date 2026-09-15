@@ -1,0 +1,6 @@
+{
+  "name": "GRB Collection Tracker",
+  "description": "Dual-interface collection tracker for GRB items distributorship with local Excel storage, salesman privacy isolation, area-first bill entry, next-day driver collection manifests, and admin entry verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
